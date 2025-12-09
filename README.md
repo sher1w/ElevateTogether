@@ -26,8 +26,9 @@ Simple charts showing habit progress over time.
 Weekly and monthly trend views.
 Overall dashboard summarizing all active habits.
 
-Tech Stack (modifiable)
-Frontend: React / Next.js
-Backend: Node.js / Express
-Database: MongoDB / Firebase
-Charts: Chart.js or Recharts
+Tech Stack:
+Frontend: React 
+Backend: Node.js 
+Database:  Firebase
+Charts: Chart.js 
+
